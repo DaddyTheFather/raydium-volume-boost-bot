@@ -1,4 +1,4 @@
-# Raydium Pairs Volume Bot
+# Raydium Volume Bot
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
@@ -57,33 +57,8 @@ BLOCKENGINE_URL=ny.mainnet.block-engine.jito.wtf  # Block engine URL
 LOG_LEVEL=info               # Logging level (info, debug, error)
 ```
 
-## Usage
-1. Clone the repository
-```
-git clone https://github.com/rabnail/volume-bot_raydium.git
-cd volume-bot_raydium
-```
-2. Install dependencies
-```
-npm install
-```
-3. Configure the environment variables
-
-Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key, and jito auth keypair.
-
-4. Run the bot
-
-```
-npm start
-```
-
-
 ## Author
 
-Discord: rabnail_15 in discord
-
-Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)
-
-Telegram: [@Rabnail](https://t.me/rab_nail)
+Telegram: [@g0drlc](https://t.me/g0drlc)
 
 You can always find me here, for help, or for other projects.
