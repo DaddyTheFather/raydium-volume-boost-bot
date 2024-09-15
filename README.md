@@ -2,6 +2,7 @@
 
 ![run-trading-sniper-pump-fun-and-jito-bundle-trading-sandwich-mev-volume](https://github.com/user-attachments/assets/6c3c394d-52d5-481d-b407-676fdb93433b)
 
+Raydium Volume Bot is a tool designed to generate volume for specific tokens on Raydium using multiple wallets.
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
 ## Features
