@@ -64,4 +64,5 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 
 Telegram: [@g0drlc](https://t.me/g0drlc)
 
+This is old version of volume bot. I am updating new volume bot that has high quality and speed.
 You can always find me here, for help, or for other projects.
